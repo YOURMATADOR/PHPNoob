@@ -22,7 +22,7 @@
 
     echo json_encode($miObjeto);
     $miNombre = json_encode($miObjeto);
-    e
+   
     ?>
 </body>
 </html>
